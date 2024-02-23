@@ -1,0 +1,56 @@
+#Travel{border: solid 1px;
+    margin: 3% 50%;
+    padding: 14px, 17px;
+    width: 50%
+    
+}
+.input{
+    border: solid 1px;
+        padding: 14px, 14px;
+        width: 50%;
+}
+#Name{
+    display: grid;
+    grid-template-columns: 20% 50%;
+    justify-content: left;
+    display: flex;
+    flex: content;
+    gap: 5px;
+}
+    #page{
+        display: grid;
+        grid-template-columns: 50% 50%;
+         justify-content: left;
+        display: flex;
+        flex: content;
+
+    
+
+    }
+
+.photo{
+    padding: 24px;
+     position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+
+    
+    
+}
+.Google{ width: 20%;
+    height: 50px;
+    margin-left: 30%;
+    margin-right: 40%;
+   
+
+
+}
+.Facebook{
+    margin-right: 40%;
+    margin-left:30px ;
+    width: 20%;
+    height: 50px;
+
+
+}
