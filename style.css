@@ -1,13 +1,20 @@
-#Travel{border: solid 1px;
+#Travel{
+    border: solid 1px;
     margin: 3% 50%;
     padding: 14px, 17px;
-    width: 50%
+    width: 40%;
+    height: 600px;
+    
+
     
 }
 .input{
     border: solid 1px;
         padding: 14px, 14px;
         width: 50%;
+        border-radius: 10px;
+        margin: auto;
+
 }
 #Name{
     display: grid;
@@ -34,23 +41,34 @@
     top: 0px;
     left: 0px;
     z-index: -1;
-
+    width: 40%;
+height: 80%;
     
     
 }
-.Google{ width: 20%;
-    height: 50px;
-    margin-left: 30%;
-    margin-right: 40%;
+.Google{ 
+    width: 9%;
+    height: 30px;
+    margin-left: 15%;
+    margin-right: 17%;
    
 
 
 }
 .Facebook{
-    margin-right: 40%;
-    margin-left:30px ;
-    width: 20%;
-    height: 50px;
+    width: 9%;
+    height: 30px;
+    margin-left: 15%;
+    margin-right: 17%;
+
+    
 
 
+}
+button{
+    padding: 12px 240px;
+            border: none;
+            background-color: hwb(239 43% 9%);
+            color: hsl(0, 30%, 96%);
+            border:solid 1px;
 }
